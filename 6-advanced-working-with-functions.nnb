@@ -1,0 +1,35 @@
+{
+    "cells": [
+        {
+            "language": "typescript",
+            "source": [
+                ""
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.error",
+                            "value": {
+                                "name": "ReferenceError",
+                                "message": "alert is not defined",
+                                "stack": "    at <Cell 1> [1, 5]\n    at <Cell 1> [4, 46]"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
